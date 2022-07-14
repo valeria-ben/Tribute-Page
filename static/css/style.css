@@ -4,6 +4,33 @@
     box-sizing: border-box;  
 }
 
+/* Fonts */
+
+@font-face {
+    font-family: "adelia";
+    src: url(/static/fonts/adelia.ttf);
+}
+@font-face {
+    font-family: "Geosans";
+    src: url(/static/fonts/GeosansLight.ttf);
+}
+@font-face {
+    font-family: "GeosansLight-Oblique";
+    src: url(/static/fonts/GeosansLight-Oblique.ttf);
+}
+
+h1 {
+    font-family: "adelia", sans-serif;
+    font-size: 3.5em;
+}
+h2 {
+    font-family: "Geosans", sans-serif;
+    font-size: 1.5em;
+}
+h3 {
+    font-family: "GeosansLight-Oblique", sans-serif;
+}
+
 /* Title container */
 
 .centered-items {

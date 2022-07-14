@@ -4,6 +4,11 @@
     box-sizing: border-box;  
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 /* Fonts */
 
 @font-face {
@@ -29,6 +34,10 @@ h2 {
 }
 h3 {
     font-family: "GeosansLight-Oblique", sans-serif;
+}
+p {
+    font-family: "Geosans", sans-serif;
+    font-size: 1.1em;
 }
 
 /* Title container */
@@ -76,3 +85,25 @@ h3 {
     }    
 }
 
+/* Timeline */
+
+#tribute-info {
+    margin: auto;
+    width: 600px;
+    padding: 40px 70px;
+    background-color: none;
+}
+
+li {
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+}
+
+#date {
+    font-weight: bold;
+}
+
+#more-info {
+    padding-bottom: 50px;
+}

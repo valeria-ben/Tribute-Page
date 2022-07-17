@@ -24,9 +24,9 @@ I found more info on W3schools, check it out at https://www.w3schools.com/html/h
 
 After downloading them into a folder on the project, you can use them with the CSS font-face rule:
 
-@font-face {
-    font-family: "font-family-name";
-    src: url(...);
+@font-face {<br>
+    font-family: "font-family-name";<br>
+    src: url(...);<br>
 }
 
 🔸 You can download cool fonts from these pages:

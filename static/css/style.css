@@ -12,15 +12,15 @@ a {
 
 @font-face {
     font-family: "adelia";
-    src: url(/static/fonts/adelia.ttf);
+    src: url(static/fonts/adelia.ttf);
 }
 @font-face {
     font-family: "Geosans";
-    src: url(/static/fonts/GeosansLight.ttf);
+    src: url(static/fonts/GeosansLight.ttf);
 }
 @font-face {
     font-family: "GeosansLight-Oblique";
-    src: url(/static/fonts/GeosansLight-Oblique.ttf);
+    src: url(static/fonts/GeosansLight-Oblique.ttf);
 }
 
 h1 {

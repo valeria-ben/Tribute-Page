@@ -6,7 +6,6 @@
 
 a {
     text-decoration: none;
-    color: black;
 }
 
 /* Fonts */
@@ -27,6 +26,7 @@ a {
 h1 {
     font-family: "adelia", sans-serif;
     font-size: 3.5em;
+    
 }
 h2 {
     font-family: "Geosans", sans-serif;
@@ -71,20 +71,6 @@ p {
     object-fit: cover;
 }
 
-/* responsive media quaries*/
-
-@media screen and (max-width:900px) {
-    #image-box{
-        width: 40%;
-    }    
-}
-
-@media screen and (max-width:600px) {
-    #image-box{
-        width: 80%;
-    }    
-}
-
 /* Timeline */
 
 #tribute-info {
@@ -106,4 +92,32 @@ li {
 
 #more-info {
     padding-bottom: 50px;
+}
+
+/* responsive media quaries*/
+
+@media screen and (max-width:900px) {
+    #image-box{
+        width: 40%;
+    }    
+    h1 {
+        max-width: 80%;
+        font-size: 3em; 
+    }
+}
+
+@media screen and (max-width:600px) {
+    #image-box{
+        width: 80%;
+    }
+    h1 {
+        width: 60%;
+        font-size: 2.5em; 
+    }
+    h2 {
+        font-size: 1.2em;
+    }
+    #img-caption, #tribute-info {
+        max-width: 500px;
+    }    
 }

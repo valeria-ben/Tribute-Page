@@ -10,7 +10,7 @@ Be sure to check it out at https://valeria-ben.github.io/Tribute-Page/ ♥️
 
 🔸 I was really having a hard time trying to figure out why didn't the HTML file and CSS file where not connecting. Neither the CSS, images nor fonts where working. It was all about the paths!
 
-I found more info on W3schools, <a src="https://www.w3schools.com/html/html_filepaths.asp">check it out</a> to learn about it.
+I found more info on W3schools, check it out at https://www.w3schools.com/html/html_filepaths.asp.
 
 ## FONTS 
 
@@ -31,9 +31,9 @@ After downloading them into a folder on the project, you can use them with the C
 
 🔸 You can download cool fonts from these pages:
 
-https://fonts.google.com/
-https://www.dafont.com/es/
-https://www.1001fonts.com/
+https://fonts.google.com/<br>
+https://www.dafont.com/es/<br>
+https://www.1001fonts.com/<br>
 
 
 

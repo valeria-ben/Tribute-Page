@@ -2,7 +2,7 @@
 
 This was a simple project, but, believe me, it had me fixing a couple of problems.
 
-Be sure to check it out at https://valeria-ben.github.io/Tribute-Page/ ♥️
+Be sure to check it out at https://valeria-ben.github.io/freecodecamp-Tribute-Page/ ♥️
 
 # Here are some things I learned:
 
